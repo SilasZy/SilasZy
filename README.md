@@ -11,7 +11,8 @@
 
 ## um pouco de mim:
 
-Desenvolvedor fullstack mas ainda estou aprendendo, atualmente estou fazendo curso tec. e quero melhorar ainda mais minhas habilidades e entrar na tão sonhada área de TI, tenho 22 anos e sou empenhado em conseguir algo!
+Desenvolvedor fullstack mas ainda estou aprendendo, atualmente estou fazendo curso tec. e quero melhorar ainda mais minhas habilidades e entrar na tão sonhada área de TI, tenho 22 anos e sou empenhado em conseguir algo! estou aprendendo essas linguagens e pra mobile: Flutter/Dart
+
 
 ## 🚀 Habilidades
 
