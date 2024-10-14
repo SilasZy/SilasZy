@@ -5,7 +5,7 @@
 </div>
 
 
-<h1> Oi, bora codar?! />
+<h1> Oi, bora codar?!
  </h1>
 
  <H2> Curiosidade: </H2>
