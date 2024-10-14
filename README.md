@@ -48,9 +48,6 @@ Desenvolvedor fullstack mas ainda estou aprendendo, atualmente estou fazendo cur
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo" /> 
 </div>
   
-  
- 
-
 
 ## 📈 Estatísticas do GitHub
 
