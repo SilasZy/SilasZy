@@ -45,7 +45,7 @@ Desenvolvedor fullstack mas ainda estou aprendendo, atualmente estou fazendo cur
   
 
 </div>
-
+<h1> Atualmente estou desenvolvendo um Sistema pro estado em flutter e Laravel </h1>
 
 ## 📈 Estatísticas do GitHub
 
