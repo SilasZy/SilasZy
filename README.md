@@ -85,6 +85,7 @@ Desenvolvedor fullstack mas ainda estou aprendendo, atualmente estou fazendo cur
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/silas-gabriel-7316bb30b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/silas_gabrielx?utm_source=qr&igsh=MTFib2R1YW14aGN4Nw==)
 
+<img src="https://cdn-icons-png.flaticon.com/512/1828/1828884.png" height="40" alt="livro chamativo logo" />
 
 
 
