@@ -5,7 +5,8 @@
 </div>
 
 
-<h1> Oi, bora codar!!</h1>
+<h1> Oi, bora codar!! <img src="https://cdn-icons-png.flaticon.com/512/29/29302.png" height="40" alt="livro logo" />
+ </h1>
 
 [![GitHub followers](https://img.shields.io/github/followers/seu-usuario?label=Follow&style=social)](https://github.com/seu-usuario)
 
