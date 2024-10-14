@@ -1,6 +1,6 @@
 
 <div align="center">
-<img src="https://www.bing.com/th/id/OGC.6ad2ee191d434a996766b500a1eb197e?pid=1.7&rurl=https%3a%2f%2fmedia4.giphy.com%2fmedia%2fxWMPYx55WNhX136T0V%2fgiphy.gif&ehk=mD%2fftZqM7troUExoO5b289x9mjsrafHVGaaQ6AxQ%2bUQ%3d " width="1000" height="800"/>
+<img src="https://www.bing.com/th/id/OGC.6ad2ee191d434a996766b500a1eb197e?pid=1.7&rurl=https%3a%2f%2fmedia4.giphy.com%2fmedia%2fxWMPYx55WNhX136T0V%2fgiphy.gif&ehk=mD%2fftZqM7troUExoO5b289x9mjsrafHVGaaQ6AxQ%2bUQ%3d " width="500" height="300"/>
 
 </div>
 
