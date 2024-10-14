@@ -12,7 +12,7 @@
 
  <p>Gosto muito de Planetas: </p>
 <img src="https://cdn-icons-png.flaticon.com/512/1828/1828884.png" height="40" alt="livro chamativo logo" /> <img src="https://cdn-icons-png.flaticon.com/512/1313/1313568.png" height="40" alt="lua logo" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Eclipse-Logo.png" height="40" alt="eclipse logo" />
+
 
 
 [![GitHub followers](https://img.shields.io/github/followers/seu-usuario?label=Follow&style=social)](https://github.com/seu-usuario)
