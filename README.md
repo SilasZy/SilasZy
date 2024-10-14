@@ -18,10 +18,8 @@
 
  <p>Gosto muito de Planetas: </p>
  <img src="https://cdn-icons-png.flaticon.com/512/616/616659.png" height="40" alt="meteoro logo" />
- <img src="https://cdn-icons-png.flaticon.com/512/586/586624.png" height="40" alt="earth logo" />
- <img src="https://cdn-icons-png.flaticon.com/512/4814/4814871.png" height="40" alt="jupiter logo" />
-<img src="https://cdn-icons-png.flaticon.com/512/3415/3415053.png" height="40" alt="mars logo" />
-<img src="https://cdn-icons-png.flaticon.com/512/3870/3870740.png" height="40" alt="saturn logo" />
+<img src="https://cdn-icons-png.flaticon.com/512/1313/1313568.png" height="40" alt="lua logo" />
+
 
 
 
