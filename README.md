@@ -18,6 +18,11 @@
 
  <p>Gosto muito de Planetas: </p>
  <img src="https://cdn-icons-png.flaticon.com/512/616/616659.png" height="40" alt="meteoro logo" />
+ <img src="https://cdn-icons-png.flaticon.com/512/586/586624.png" height="40" alt="earth logo" />
+ <img src="https://cdn-icons-png.flaticon.com/512/4814/4814871.png" height="40" alt="jupiter logo" />
+<img src="https://cdn-icons-png.flaticon.com/512/3415/3415053.png" height="40" alt="mars logo" />
+
+
 
 
 [![GitHub followers](https://img.shields.io/github/followers/seu-usuario?label=Follow&style=social)](https://github.com/seu-usuario)
@@ -54,7 +59,7 @@ Desenvolvedor fullstack mas ainda estou aprendendo, atualmente estou fazendo cur
   
 
 </div>
-<h1  style="color🟥"> Atualmente estou desenvolvendo um Sistema pro Estado/Gre com uma equipe
+<h1> Atualmente estou desenvolvendo um Sistema pro Estado/Gre com uma equipe
 <div>
 <h3 class="text-center"> Linguagens:</h3>
  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" height="40" alt="laravel logo" />
