@@ -1,11 +1,8 @@
 
-<style>
-.texto{
-color: red;
-}
+
 
  
-</style>
+
 
 
 <div align="center">
@@ -57,7 +54,7 @@ Desenvolvedor fullstack mas ainda estou aprendendo, atualmente estou fazendo cur
   
 
 </div>
-<h1 class="texto"> Atualmente estou desenvolvendo um Sistema pro Estado/Gre com uma equipe
+<h1  style="color:red;"> Atualmente estou desenvolvendo um Sistema pro Estado/Gre com uma equipe
 <div>
 <h3 class="text-center"> Linguagens:</h3>
  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" height="40" alt="laravel logo" />
