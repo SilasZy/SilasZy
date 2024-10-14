@@ -14,7 +14,7 @@
 Desenvolvedor fullstack mas ainda estou aprendendo, atualmente estou fazendo curso tec. e quero melhorar ainda mais minhas habilidades e entrar na tão sonhada área de TI, tenho 22 anos e sou empenhado em conseguir algo! estou aprendendo essas linguagens e pra mobile: Flutter/Dart
 
 
-## 🚀 Habilidades
+## 🚀 Habilidades a se destacar:
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
@@ -23,14 +23,7 @@ Desenvolvedor fullstack mas ainda estou aprendendo, atualmente estou fazendo cur
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
-
-
-
-
-
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo" />
-
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
@@ -58,7 +51,7 @@ Desenvolvedor fullstack mas ainda estou aprendendo, atualmente estou fazendo cur
   
   
  
-  -> 
+
 
 ## 📈 Estatísticas do GitHub
 
