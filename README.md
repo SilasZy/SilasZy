@@ -46,7 +46,6 @@ Desenvolvedor fullstack mas ainda estou aprendendo, atualmente estou fazendo cur
 <h3 class="text-center"> Linguagens:</h3>
  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" height="40" alt="laravel logo" />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo" /> 
-
 </div>
   
   
