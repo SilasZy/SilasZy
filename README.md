@@ -41,7 +41,7 @@ Desenvolvedor fullstack mas ainda estou aprendendo, atualmente estou fazendo cur
   
 
 </div>
-<h1 class="text-center"> Atualmente estou desenvolvendo um Sistema pro Estado/Gre.
+<h1 class="text-center"> Atualmente estou desenvolvendo um Sistema pro Estado/Gre com uma equipe
 <div>
 <h3 class="text-center"> Linguagens:</h3>
  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" height="40" alt="laravel logo" />
