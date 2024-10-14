@@ -43,7 +43,7 @@ Desenvolvedor fullstack mas ainda estou aprendendo, atualmente estou fazendo cur
 </div>
 <h1 class="text-center"> Atualmente estou desenvolvendo um Sistema pro Estado/Gre.
 <div>
-<h2 class="text-center"> Linguagens:</h2>
+<h3 class="text-center"> Linguagens:</h3>
  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" height="40" alt="laravel logo" />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo" /> 
 
