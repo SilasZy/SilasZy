@@ -17,8 +17,8 @@
  <H2> Curiosidade: </H2>
 
  <p>Gosto muito de Planetas: </p>
-<img src="https://cdn-icons-png.flaticon.com/512/1828/1828884.png" height="40" alt="livro chamativo logo" />
-<img src="https://cdn-icons-png.flaticon.com/512/1313/1313568.png" height="40" alt="lua logo" />
+<img src="https://cdn-icons-png.flaticon.com/512/1828/1828884.png" height="40" alt="livro chamativo logo" /> <img src="https://cdn-icons-png.flaticon.com/512/1313/1313568.png" height="40" alt="lua logo" />
+
 
 
 
