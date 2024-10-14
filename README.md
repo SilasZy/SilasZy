@@ -5,8 +5,14 @@
 </div>
 
 
-<h1> Oi, bora codar!! <img src="https://cdn-icons-png.flaticon.com/512/29/29302.png" height="40" alt="livro logo" />
+<h1> Oi, bora codar?! />
  </h1>
+
+ <H2> Curiosidade: </H2>
+
+ <p>Gosto muito de Planetas: </p>
+ <img src="https://cdn-icons-png.flaticon.com/512/616/616659.png" height="40" alt="meteoro logo" />
+
 
 [![GitHub followers](https://img.shields.io/github/followers/seu-usuario?label=Follow&style=social)](https://github.com/seu-usuario)
 
