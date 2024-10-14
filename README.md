@@ -1,4 +1,13 @@
 
+<style>
+.texto{
+color: red;
+}
+
+ 
+</style>
+
+
 <div align="center">
 <img src="https://www.bing.com/th/id/OGC.6ad2ee191d434a996766b500a1eb197e?pid=1.7&rurl=https%3a%2f%2fmedia4.giphy.com%2fmedia%2fxWMPYx55WNhX136T0V%2fgiphy.gif&ehk=mD%2fftZqM7troUExoO5b289x9mjsrafHVGaaQ6AxQ%2bUQ%3d " width="500" height="300"/>
 
@@ -48,7 +57,7 @@ Desenvolvedor fullstack mas ainda estou aprendendo, atualmente estou fazendo cur
   
 
 </div>
-<h1 class="text-center"> Atualmente estou desenvolvendo um Sistema pro Estado/Gre com uma equipe
+<h1 class="texto"> Atualmente estou desenvolvendo um Sistema pro Estado/Gre com uma equipe
 <div>
 <h3 class="text-center"> Linguagens:</h3>
  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" height="40" alt="laravel logo" />
