@@ -73,8 +73,8 @@ Desenvolvedor fullstack mas ainda estou aprendendo, atualmente estou fazendo cur
 ## 📂 Projetos Destacados
 
 - [Pixelport](https://github.com/SilasZy/PixelPort1) fiz esse projeto pra treinar minhas habilidades, principalmente do Frontend! ele consiste que é uma galeria de fotos. nele teve o consumo de uma API public do unsplash de fotos.
-- <br>
-  [BuscaCep](https://busca-cepnext.vercel.app/) fiz esse projeto com next.js para consumo de api via cep e treinar meus conhecimentos
+ <br>
+-  [BuscaCep](https://busca-cepnext.vercel.app/) fiz esse projeto com next.js para consumo de api via cep e treinar meus conhecimentos
   
 ## 🌐 Redes Sociais
 
