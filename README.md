@@ -46,10 +46,14 @@ Desenvolvedor fullstack mas ainda estou aprendendo, atualmente estou fazendo cur
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
+  <img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo" />
   
 
 </div>
-<h1> Atualmente estou desenvolvendo um Sistema pro Estado/Gre com uma equipe
+<h1>  Concluí o projeto para o governo sendo bolsista pela Facep
 <div>
 <h3 class="text-center"> Linguagens:</h3>
  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" height="40" alt="laravel logo" />
@@ -69,7 +73,8 @@ Desenvolvedor fullstack mas ainda estou aprendendo, atualmente estou fazendo cur
 ## 📂 Projetos Destacados
 
 - [Pixelport](https://github.com/SilasZy/PixelPort1) fiz esse projeto pra treinar minhas habilidades, principalmente do Frontend! ele consiste que é uma galeria de fotos. nele teve o consumo de uma API public do unsplash de fotos.
-
+  [BuscaCep](https://busca-cepnext.vercel.app/) fiz esse projeto com next.js para consumo de api via cep e treinar meus conhecimentos
+  
 ## 🌐 Redes Sociais
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/silas-gabriel-7316bb30b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
