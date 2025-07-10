@@ -19,7 +19,7 @@
 
 ## um pouco de mim:
 
-Desenvolvedor fullstack mas ainda estou aprendendo, atualmente estou fazendo curso tec. e quero melhorar ainda mais minhas habilidades e entrar na tão sonhada área de TI, tenho 22 anos e sou empenhado em conseguir algo! estou aprendendo essas linguagens e pra mobile: Flutter/Dart
+Desenvolvedor fullstack  formado em tec. em análise e desenvolvimento de sistemas. tenho 23 anos, sou fascinado pela área da Tecnologia! amo criar soluções inovadoras e Reais para o mercado!
 
 
 ## 🚀 Habilidades a se destacar:
