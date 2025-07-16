@@ -53,7 +53,7 @@ Desenvolvedor fullstack  formado em tec. em análise e desenvolvimento de sistem
   
 
 </div>
-<h1>  Concluí o projeto para o governo sendo bolsista pela Facep
+<h1>  Participei de um Projeto pelo Governo sendo Bolsista pela Facep</h1>
 <div>
 <h3 class="text-center"> Linguagens:</h3>
  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" height="40" alt="laravel logo" />
