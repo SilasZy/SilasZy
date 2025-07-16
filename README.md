@@ -1,29 +1,10 @@
-<style>
-  body, html {
-    margin: 0; 
-    padding: 0;
-    height: 100%;
-  }
 
-  .container {
-    width: 100vw;       /* 100% da largura da viewport */
-    height: 300px;      /* altura fixa, você pode ajustar */
-    overflow: hidden;   /* para esconder overflow se tiver */
-  }
-
-  .container img {
-    width: 100%;        /* ocupa 100% da largura do container */
-    height: 100%;       /* ocupa toda altura do container */
-    object-fit: cover;  /* cobre todo o container, cortando se precisar */
-    display: block;     /* remove espaçamento abaixo da imagem */
-  }
-</style>
 
 
 <div align="center">
 
 <div class="container">
-  <img src="https://media1.tenor.com/m/LmNg8FTUH0wAAAAC/trippy.gif" alt="Gif Trippy" />
+  <img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" alt="Gif Trippy" />
 </div>
 
 </div>
