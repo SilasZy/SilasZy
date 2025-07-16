@@ -1,6 +1,6 @@
 
 <div align="center">
-<img src="https://media1.tenor.com/m/LmNg8FTUH0wAAAAC/trippy.gif " width="500" height="300"/>
+<img src="https://media1.tenor.com/m/LmNg8FTUH0wAAAAC/trippy.gif "  width="1000" height="300"/>
 
 </div>
 
