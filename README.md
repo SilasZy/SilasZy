@@ -98,10 +98,8 @@ Desenvolvedor fullstack  formado em tec. em análise e desenvolvimento de sistem
 ## 🌐 Redes Sociais
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/silas-gabriel-7316bb30b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-<img width="12" />
-<a href="https://www.instagram.com/silas.simoes_?igsh=MTFib2R1YW14aGN4Nw==" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" height="40" alt="Instagram logo" />
-</a>
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/silas.simoes_?igsh=MTFib2R1YW14aGN4Nw==)
+
 
 
 
