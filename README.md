@@ -10,7 +10,7 @@
 </div>
 
 
-<h1> Oi, bora codar?!
+<h1> Oi, bora codar algo novo?!
  </h1>
 
  
@@ -38,8 +38,6 @@ Desenvolvedor fullstack  formado em tec. em análise e desenvolvimento de sistem
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
@@ -58,6 +56,8 @@ Desenvolvedor fullstack  formado em tec. em análise e desenvolvimento de sistem
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo" />
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo" />
 
 
   
@@ -68,6 +68,13 @@ Desenvolvedor fullstack  formado em tec. em análise e desenvolvimento de sistem
 <h3 class="text-center"> Linguagens:</h3>
  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" height="40" alt="laravel logo" />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo" /> 
+</div>
+
+<h1> Linguagenm que já estudei por Hobbie e acho interessante</h1>
+<div>
+<h3 class="text-center"> Linguagem: </h3>
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go logo" />
 </div>
   
 
@@ -96,6 +103,7 @@ Desenvolvedor fullstack  formado em tec. em análise e desenvolvimento de sistem
 = [link da aplicação back hospedada ao render](https://votabrasil-2.onrender.com/)
 
 =  [Control-G](https://github.com/SilasZy/Control-G) Desenvolvi uma aplicação mobile em flutter pessoal para controlar o que entra e o que saí do bolso, tanto em relação a ir comprar um sapato, pizza, produtos em um mercado, enfim, para ter uma ideia no fim de semana ou até no mês e controlar tudo isso. foi de grande experiência para mim sobre a parte do ux e pacotes do flutter.
+
   
   
 ## 🌐 Redes Sociais
