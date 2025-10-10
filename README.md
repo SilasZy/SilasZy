@@ -70,9 +70,9 @@ Desenvolvedor fullstack  formado em tec. em análise e desenvolvimento de sistem
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo" /> 
 </div>
 
-<h1> Linguagenm que já estudei por Hobbie e acho interessante</h1>
+<h1> Linguagem que já estudei por Hobbie e acho interessante</h1>
 <div>
-<h3 class="text-center"> Linguagem: </h3>
+<h3 class="text-center"> linguagem: </h3>
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go logo" />
 </div>
